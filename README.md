@@ -18,6 +18,32 @@ test image file
 ![](/vgg_layers/block1_conv1/4.jpg)
 ![](/vgg_layers/block1_conv1/5.jpg)
 
+'block2_conv1' convolution layer2 10/128
+
+![](/vgg_layers/block2_conv1/0.jpg)
+![](/vgg_layers/block2_conv1/1.jpg)
+![](/vgg_layers/block2_conv1/2.jpg)
+![](/vgg_layers/block2_conv1/3.jpg)
+![](/vgg_layers/block2_conv1/4.jpg)
+![](/vgg_layers/block2_conv1/5.jpg)
+![](/vgg_layers/block2_conv1/6.jpg)
+![](/vgg_layers/block2_conv1/7.jpg)
+![](/vgg_layers/block2_conv1/8.jpg)
+![](/vgg_layers/block2_conv1/9.jpg)
+
+'block3_conv1' convolution layer3 10/256
+
+![](/vgg_layers/block3_conv1/0.jpg)
+![](/vgg_layers/block3_conv1/1.jpg)
+![](/vgg_layers/block3_conv1/2.jpg)
+![](/vgg_layers/block3_conv1/3.jpg)
+![](/vgg_layers/block3_conv1/4.jpg)
+![](/vgg_layers/block3_conv1/5.jpg)
+![](/vgg_layers/block3_conv1/6.jpg)
+![](/vgg_layers/block3_conv1/7.jpg)
+![](/vgg_layers/block3_conv1/8.jpg)
+![](/vgg_layers/block3_conv1/9.jpg)
+
 'block4_conv1' convolution layer4 10/512
 
 ![](/vgg_layers/block4_conv1/0.jpg)
